@@ -1,0 +1,14 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/(.*)", 
+        "destination": "https://captcha-solver-api.onrender.com" 
+        
+      },
+      {
+        "source": "/(.*)", 
+        "destination": "/index.html" 
+      }
+    ]
+  }
+  
