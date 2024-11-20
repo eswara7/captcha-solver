@@ -4,26 +4,22 @@
   "description": "server to serve captcha data,verify user's captcha,and to maintain,return  coin balance ",
   "main": "index.js",
   "type": "module",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js",
     "build": "npx prisma generate",
-    "migrate": "npx prisma migrate deploy" 
+    "migrate": "npx prisma migrate deploy"
   },
   "author": "Eswara Rao Landa",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^5.22.0",
     "cors": "^2.8.5",
-    "express": "^4.21.1",
-     "@prisma/client": "^3.0.0"
+    "express": "^4.21.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7",
-    "prisma": "^3.0.0"
+    "prisma": "^5.22.0"
   }
 }
-
- 
-
