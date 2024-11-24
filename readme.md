@@ -3,7 +3,7 @@
 A fun and interactive **Captcha Solver** application where users can solve captchas to earn coins! Designed with a responsive UI and built using **React**, **Node.js**, **Tailwind CSS**, and **NeonDB (PostgreSQL)**, this app combines functionality and style to deliver a modern user experience.
 
 
-https://github.com/user-attachments/assets/6c30f2d8-c8f7-4e1d-9bd9-5d7fdfeb6c60
+https://github.com/user-attachments/assets/160a0133-859d-4e94-b4e1-566f18647f4b
 
 
 
